@@ -16,4 +16,4 @@ const musicTools = {
   },
 };
 
-export { musicTools };
+export default { musicTools };
